@@ -59,7 +59,9 @@ The dashboard reads from three tables in `BLINKIT_DW.RAW`:
 
 Screenshots:
 <img width="1837" height="857" alt="1" src="https://github.com/user-attachments/assets/8468682d-74ef-4fb6-a969-84c4e26dfb02" />
+
 <img width="1841" height="798" alt="3" src="https://github.com/user-attachments/assets/a5592e21-0d5f-4c66-bad6-1b1e9753e35a" />
+
 <img width="1827" height="790" alt="2" src="https://github.com/user-attachments/assets/93a6617f-967d-463f-97e4-e7684d9daa78" />
 
 
